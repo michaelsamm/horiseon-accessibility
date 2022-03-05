@@ -10,7 +10,7 @@ The aim of this project is to improve the accessibility of the webpage for to be
 
 ## Horiseon Full Page Screenshot
 
-![image](./assets/images/horiseon-accessibility.png)
+![image](./assets/images/horiseon-screenshot.png)
 
 ## Deployed Page
 https://michaelsamm.github.io/horiseon-accessibility/
