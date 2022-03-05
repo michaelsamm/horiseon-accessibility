@@ -8,9 +8,9 @@ Horiseon is a Social Solution Services company. A few services offered by Horise
 
 The aim of this project is to improve the accessibility of the webpage for to better meet standards for compliance with screen readers and semantic HTML standards.
 
-## Horiseon Webpage
+## Horiseon Full Page Screenshot
 
-//add link to image//
+![image](./assets/images/horiseon-accessibility.png)
 
 ## Deployed Page
 https://michaelsamm.github.io/horiseon-accessibility/
